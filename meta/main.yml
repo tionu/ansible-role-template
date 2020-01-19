@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: template
+  author: tionu
+  description: template of an ansible role following ansible galaxy guidelines
+
+  license: MIT
+
+  min_ansible_version: 2.9
+
+  platforms:
+  - name: Ubuntu
+    versions:
+    - bionic
+
+  galaxy_tags: []
+
+dependencies: []
